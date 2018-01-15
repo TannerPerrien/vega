@@ -1,0 +1,21 @@
+{
+  "name": "vega",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Tanner Perrien",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.17.1",
+    "cheerio": "^1.0.0-rc.2",
+    "draftlog": "^1.0.12",
+    "inquirer": "^5.0.0",
+    "lowdb": "^1.0.0",
+    "puppeteer": "^1.0.0",
+    "twilio": "^3.11.0"
+  }
+}
